@@ -1,4 +1,9 @@
-package com.bridgelabz.model;
+package com.bridgelabz.service;
+/*
+ * @author ROSHNI
+ * Cab Invoice Summary
+ *
+ *  */
 
 public class InvoiceSummary {
     private final int numOfRides;
